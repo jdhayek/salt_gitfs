@@ -3,3 +3,6 @@ vim:
 
 python:
   pkg.installed
+
+git:
+  pkg.installed
